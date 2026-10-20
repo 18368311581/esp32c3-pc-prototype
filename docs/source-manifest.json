@@ -1,0 +1,141 @@
+{
+  "prepared_date": "2026-10-20",
+  "files": [
+    {
+      "source": "hello_world/CMakeLists.txt",
+      "published": "hello_world/CMakeLists.txt",
+      "source_sha256": "5df271e4d0dd84f1d4765b274c6d53179cf33ca3f9c5eb5d21de69d88310d721",
+      "published_sha256": "5df271e4d0dd84f1d4765b274c6d53179cf33ca3f9c5eb5d21de69d88310d721",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "hello_world/sdkconfig.defaults",
+      "published": "hello_world/sdkconfig.defaults",
+      "source_sha256": "67012e0fc338f5cce28130f1591af092882f572d928ec227aae82b374c2b0db6",
+      "published_sha256": "67012e0fc338f5cce28130f1591af092882f572d928ec227aae82b374c2b0db6",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "hello_world/openocd/esp32c3-builtin-1mhz.cfg",
+      "published": "hello_world/openocd/esp32c3-builtin-1mhz.cfg",
+      "source_sha256": "b4694e3d0a7398cc2444cfb046e823f501e1346e6a9e25844a74676edea22fce",
+      "published_sha256": "b4694e3d0a7398cc2444cfb046e823f501e1346e6a9e25844a74676edea22fce",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "hello_world/main/CMakeLists.txt",
+      "published": "hello_world/main/CMakeLists.txt",
+      "source_sha256": "662bdbc472758cef228631ffcfe692009ee4f69e030e27479c310822d48cf43a",
+      "published_sha256": "662bdbc472758cef228631ffcfe692009ee4f69e030e27479c310822d48cf43a",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "hello_world/main/device_main.c",
+      "published": "hello_world/main/device_main.c",
+      "source_sha256": "0e9d3822dfbdcad70e52f2773c6cf79bb01315f44a0d580aca7a4f80b208cd09",
+      "published_sha256": "0e9d3822dfbdcad70e52f2773c6cf79bb01315f44a0d580aca7a4f80b208cd09",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "hello_world/main/espnow_link.c",
+      "published": "hello_world/main/espnow_link.c",
+      "source_sha256": "2f60df734f1a6365ca5212143a39d25b37b18b95638f100b0a84af26184c9780",
+      "published_sha256": "2f60df734f1a6365ca5212143a39d25b37b18b95638f100b0a84af26184c9780",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "hello_world/main/espnow_link.h",
+      "published": "hello_world/main/espnow_link.h",
+      "source_sha256": "96fbe3f0c358f0d69f776cfc5d5d79ea7b743861e844deb94eb98f8e23f60ac8",
+      "published_sha256": "96fbe3f0c358f0d69f776cfc5d5d79ea7b743861e844deb94eb98f8e23f60ac8",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "hello_world/main/hello_world_main.c",
+      "published": "hello_world/main/hello_world_main.c",
+      "source_sha256": "181441b38e9a903b8e21443fc4284edbaf716be0aa407de788e7a36e8bbd12d7",
+      "published_sha256": "181441b38e9a903b8e21443fc4284edbaf716be0aa407de788e7a36e8bbd12d7",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "hello_world/main/receiver_main.c",
+      "published": "hello_world/main/receiver_main.c",
+      "source_sha256": "5114dbfa0074c16e736421479858a6e95c020897afdba026bb7f266c7b954e56",
+      "published_sha256": "5114dbfa0074c16e736421479858a6e95c020897afdba026bb7f266c7b954e56",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "hello_world/main/wireless_config.h",
+      "published": "hello_world/main/wireless_config.h",
+      "source_sha256": "70c00a9d10731e88240f2ad74e5b89c70d735dc936e584c0d09a92265af34a56",
+      "published_sha256": "f9a0323aab12927e56fe7dc45dbe745fc81e5ac05ba04f17c662a450dc3a79dd",
+      "modified_for_publication": true,
+      "changes": "public demo keys and compile-time length checks"
+    },
+    {
+      "source": "hello_world/main/wireless_protocol.h",
+      "published": "hello_world/main/wireless_protocol.h",
+      "source_sha256": "556b7c5feea0580f76e22a2161e0f3b34ab877a98dd08bb0f9422ab5673b34f3",
+      "published_sha256": "556b7c5feea0580f76e22a2161e0f3b34ab877a98dd08bb0f9422ab5673b34f3",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "ESP_1/ESP_1_backup/ESP_1_2026-07-18-22-02.epro2",
+      "published": "hardware/source/ESP_1_2026-07-18-22-02.epro2",
+      "source_sha256": "350d3a811708f2a399bcf9aab740bad07843f4c7d796d9692780e8756e5e1d6a",
+      "published_sha256": "350d3a811708f2a399bcf9aab740bad07843f4c7d796d9692780e8756e5e1d6a",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "ESP_1/pics/1.png",
+      "published": "hardware/images/schematic-2026-07-18.png",
+      "source_sha256": "6f83b35158d4aa1611741b26a97d0482d585d442cf238e1317e84eab1a31fbf7",
+      "published_sha256": "6f83b35158d4aa1611741b26a97d0482d585d442cf238e1317e84eab1a31fbf7",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "ESP_1/pics/2.png",
+      "published": "hardware/images/pcb-layout-2026-07-18.png",
+      "source_sha256": "0ba1632c8e2280c99b9077f1b65092eb636908e1b7a7bc1a3ed4d13354cb9ea5",
+      "published_sha256": "0ba1632c8e2280c99b9077f1b65092eb636908e1b7a7bc1a3ed4d13354cb9ea5",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "ESP_1/out/Gerber_PCB1_2026-07-18.zip",
+      "published": "hardware/manufacturing/Gerber_PCB1_2026-07-18.zip",
+      "source_sha256": "ea5a99dd4150a9c823658584c2c26d6ba8c9216a99b8e0fb174476d3ac89afff",
+      "published_sha256": "ea5a99dd4150a9c823658584c2c26d6ba8c9216a99b8e0fb174476d3ac89afff",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "ESP_1/out/BOM_Board1_PCB1_2026-07-18.xlsx",
+      "published": "hardware/manufacturing/BOM_Board1_PCB1_2026-07-18.xlsx",
+      "source_sha256": "e5b05543c5458fa1c3765ac0078d4615a656fe13b5eecd47808d92ee3e52e115",
+      "published_sha256": "e5b05543c5458fa1c3765ac0078d4615a656fe13b5eecd47808d92ee3e52e115",
+      "modified_for_publication": false,
+      "changes": "none"
+    },
+    {
+      "source": "ESP_1/out/PickAndPlace_PCB1_2026_07_18.csv",
+      "published": "hardware/manufacturing/PickAndPlace_PCB1_2026_07_18.csv",
+      "source_sha256": "aa6a28d90e02d5d3990a5fdee6998bed884ded1df1e774b67b499960c68cfc42",
+      "published_sha256": "aa6a28d90e02d5d3990a5fdee6998bed884ded1df1e774b67b499960c68cfc42",
+      "modified_for_publication": false,
+      "changes": "none"
+    }
+  ]
+}

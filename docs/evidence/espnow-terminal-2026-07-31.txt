@@ -1,0 +1,58 @@
+RECEIVER role=receiver mac=<RECEIVER_MAC> paired=0
+>
+PAIRING window=60s
+>
+PAIRING candidate found
+>
+READY device=paired
+> HELP
+
+Commands: ADC? | LED 0 | LED 1 | LED TOGGLE | INFO? | HELP
+> > ADC?
+>
+ADC raw=298 adc_mv=222 battery_mv=894
+> LED 1
+>
+OK LED 1
+> LED 0
+>
+OK LED 0
+> LED TOGGLE
+>
+OK LED 1
+> LED TOGGLE
+>
+OK LED 0
+> LED TOGGLE
+>
+OK LED 1
+> LED TOGGLE
+>
+OK LED 0
+> INFO?
+>
+INFO fw=espnow-v1 mac=<DEVICE_MAC> up=61 heap=227364
+> LED TOGGLE
+>
+OK LED 1
+> LED TOGGLE
+>
+OK LED 0
+> LED TOGGLE
+>
+OK LED 1
+> LED TOGGLE
+>
+OK LED 0
+> LED TOGGLE
+>
+OK LED 1
+> LED TOGGLE
+>
+OK LED 0
+> LED TOGGLE
+>
+OK LED 1
+> LED TOGGLE
+>
+OK LED 0
